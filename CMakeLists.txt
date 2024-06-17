@@ -28,8 +28,6 @@ set(PROJECT_SOURCES
         trackgenerator.cpp
         statusbar.h
         statusbar.cpp
-        testwidget.h
-        testwidget.cpp
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
